@@ -1,8 +1,8 @@
-## Oiii Eu sou a Tatiana Candido,criadora de conteúdo de programação e tecnologia!
-## Atualmante trabalhando como analiasta de Suporte.
-## Professora de Curso Livre na área de TI
-## Criadora de conteúdo no canal TC.Informática.
-## Estudando React.JS
+## Oiii Eu sou a Tatiana Candido, criadora de conteúdo de programação e tecnologia!
+Atualmante trabalhando como analiasta de Suporte.
+Professora de Curso Livre na área de TI
+Criadora de conteúdo no canal TC.Informática.
+Estudando React.JS
 
 <div align="center">
   <a href="https://github.com/TatianaCandido">
