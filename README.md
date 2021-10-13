@@ -1,6 +1,6 @@
-## Oiii Eu sou a Tatiana Candido, criadora de conteúdo de programação e tecnologia!
+## Oiii Eu sou a Tatiana Candido.
 * Atualmante trabalhando como analiasta de Suporte.
-* Professora de Curso Livre na área de TI
+* Professora de Curso Livre na área de TI.
 * Criadora de conteúdo no canal TC.Informática.
 * Estudando React.JS
 
@@ -12,7 +12,6 @@
 <div style="display: inline_block"><br>
   <div style="display: inline_block"><br>
    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-   <img align="center" alt="Rafa-Js" height="30" width="40" src=<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
    <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
